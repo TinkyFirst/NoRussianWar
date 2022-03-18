@@ -112,7 +112,6 @@ var urls = [
     'https://bgb.by',
     'https://belres.by',
     'https://energo.by',
-    'http://www.bellegprom.by',
     'https://www.belneftekhim.by',
     'https://shop-rt.com',
     'https://sb.by',

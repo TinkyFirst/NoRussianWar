@@ -248,6 +248,7 @@ header {
 }
 
 .desc h3 {
+  margin-bottom: 30px;
   text-align: center;
   color: #005bbc;
 }
